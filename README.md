@@ -1,3 +1,20 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Personalizované navigačné systémy }
+\author{Viktor Vrbatovič}
+\date{October 2024}
+
+\begin{document}
+
+\maketitle
+
+\section{Abstract}
+Personalizované odporúčacie systémy pre výber trasy pracujú s veľkým množstvom dát. Tieto systémy skúmajú rôzne faktory ako: cenu cestovania, čas cestovania, vzdialenosť, spotrebu paliva, ale aj históriu ciest. Neustále sa učia a menia, poskytujú dynamické zlepšenia a návrhy, prispôsobujú užívateľovi cestu na základe jeho návykov alebo preferencie. Tento prístup nielenže zlepšuje používateľský zážitok, ale aj prispieva k zlepšeniu premávky a efektívnejšej spotrebe paliva. V mojej práci by som sa chcel zamerať na to, ako tieto systémy fungujú, táto problematika ma zaujíma a chcel by som jej lepšie porozumieť, lebo navigácia v tejto motorizovanej dobe je súčasťou nášho každodenného života. Budem sa venovať metódam ako: kolaboratívne filtrovanie a neurónové siete. Ako sa tieto spôsoby navrhovania personalizovanej trasy líšia, a čo by sa dalo vylepšiť. V mojej práci by som taktiež chcel ozrejmiť začiatky navigačných systémov, aké metódy použivali ľudia na začiatku. Taktiež by som sa chcel pozrieť na experiment založený na reálnych GPS údajoch taxíkov z Pekingu, ktorá poskytuje lepšie pochopenie a ako tieto dáta prispievajú k zlepšovaniu GPS odporúčacích systémov.
+
+\section{1. Úvod (Problematika)}
+
+\end{document}
 
 
 
