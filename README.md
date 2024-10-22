@@ -1,5 +1,6 @@
 Uvod
 
+Sposoby
 
 
 
